@@ -1,0 +1,6 @@
+image: mm4eche/javafx-workspace
+
+build:
+ script: 
+ - "mvn install -B"
+ - "cat target/site/jacoco/index.html"

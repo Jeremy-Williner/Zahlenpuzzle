@@ -1,0 +1,45 @@
+#fenster {
+    -fx-font-family: "Elephant";
+    -fx-background-color: #333333;
+
+}
+
+#fensterGewonnen{
+    -fx-font-family: "Elephant";
+    -fx-background-color: green;
+    -fx-color: #ffffff;
+    
+}
+
+.dunkleBox {
+    -fx-background-color: lightskyblue;
+}
+
+.dunkleBox:hover {
+    -fx-background-color: red;
+}
+
+.neuladen{
+    -fx-background-color: greenyellow;
+
+}
+
+.label {
+
+    -fx-text-fill: white;
+
+}
+
+.titelLabel{
+    -fx-font-size: 25pt;
+
+
+}
+
+.spielenButton{
+    -fx-background-color: greenyellow;
+}
+
+.error{
+    -fx-text-fill:  red;
+}
